@@ -1,0 +1,5 @@
+WIN_W = 400
+WIN_H = 630
+NAME_START_PAGE = 'timeline'
+BTN_H = 30
+COUNT_BTN = 2
